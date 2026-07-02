@@ -40,15 +40,15 @@ Delivered an executive-ready strategic dashboard that provides leadership with p
 
 ### 📊 1. Executive Summary Dashboard (Page 1)
 Provides a high-level overview of global call volumes, average baseline satisfaction, survey response trends, and a geographical performance ranking.
-![Executive Summary](Executive_Summary_Page1.png)
+![Executive Summary](Executive_Summary.png)
 
 ### 🔍 2. Operational Deep-Dive: Chicago/IL (Page 2)
 An interactive drill-down canvas isolating the root causes of underperformance in Chicago by mapping volume against channel satisfaction and customer sentiment against call duration.
-![Chicago Deep-Dive](Chicago_Deep_Dive_Page2.png)
+![Chicago Deep-Dive](Chicago_Deep-Dive.png)
 
 ### 💡 3. Strategic Insights & Action Plan (Page 3)
 A data-driven consulting summary translating analytical patterns into business directives and structured operational recommendations for management.
-![Strategic Action Plan](Strategic_Action_Plan_Page3.png)
+![Strategic Action Plan](Strategic_Action_Plan.png)
 
 ---
 
