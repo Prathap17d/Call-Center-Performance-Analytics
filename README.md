@@ -44,7 +44,7 @@ Provides a high-level overview of global call volumes, average baseline satisfac
 
 ### 🔍 2. Operational Deep-Dive: Chicago/IL (Page 2)
 An interactive drill-down canvas isolating the root causes of underperformance in Chicago by mapping volume against channel satisfaction and customer sentiment against call duration.
-![Chicago Deep-Dive](Chicago_Deep-Dive.png)
+![Chicago Deep-Dive](Chicago_Deep_Dive.png)
 
 ### 💡 3. Strategic Insights & Action Plan (Page 3)
 A data-driven consulting summary translating analytical patterns into business directives and structured operational recommendations for management.
